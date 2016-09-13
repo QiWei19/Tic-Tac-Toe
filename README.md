@@ -7,3 +7,6 @@ Two game modes: one-player and two-player.
 Download the repository and open the .xcodeproj in XCode. Just click on Run! 
 
 # Screen Shots
+![ScreenShot](1.png)
+![ScreenShot](2.png)
+![ScreenShot](3.png)
